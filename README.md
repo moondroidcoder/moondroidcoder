@@ -8,9 +8,9 @@ I'm still on my first amateur ambitious steps as a programmer, I have a tiny bit
 
    <p align="left">
       <a href="https://www.youtube.com/c/zackdroidcoder?sub_confirmation=1">
-         <img alt="youtube subscribers" title="YouTube Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23FF2184&label=Youtube Channel&logo=video&logoColor=white&style=for-the-badge&labelColor=b31b5e"/></a> 
+         <img alt="youtube subscribers" title="YouTube Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCbWNOpUvvruwi3pbYVC_yWQ?color=%23FF2184&label=Youtube Channel&logo=video&logoColor=white&style=for-the-badge&labelColor=b31b5e"/></a> 
       <a href="https://www.youtube.com/c/zackdroidcoder">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23FF0000&logo=eye&logoColor=white&style=for-the-badge&labelColor=a30303"/></a> 
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCbWNOpUvvruwi3pbYVC_yWQ?color=%23FF0000&logo=eye&logoColor=white&style=for-the-badge&labelColor=a30303"/></a> 
       <a href="https://github.com/moondroidcoder?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/moondroidcoder?color=26bd04&labelColor=209c05&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/moondroidcoder?tab=repositories&sort=stargazers">
