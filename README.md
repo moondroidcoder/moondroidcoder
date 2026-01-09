@@ -2,8 +2,8 @@
 
 ## **Mobile Engineer, Content creator and Indie Developer!!**
 
-Ello!! I'm Moon/Zack/Sunny/Mohamed. I'm a solo programmer currently not in a team, I specialize in a few languages and frameworks and mobile porting + general development 👀.
-I'm still on my first amateur ambitious steps as a programmer, I have a tiny bit of experience unfortunately! Looking for a solid project to put my time into hehehe.
+Ello!! I'm Moon/Zack/Sunny/Mohamed. I'm a solo programmer currently working on Base game FNF, I specialize in a few languages and frameworks and mobile porting + general development 👀.
+I'm still on my first amateur ambitious steps as a programmer, I have a tiny bit of experience unfortunately!
 
 
    <p align="left">
@@ -31,6 +31,7 @@ I'm still on my first amateur ambitious steps as a programmer, I have a tiny bit
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+
 <img align="left" alt="iOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="Opengl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" />
 <br />
