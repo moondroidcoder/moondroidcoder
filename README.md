@@ -2,8 +2,7 @@
 
 ## **Mobile Engineer, Content creator and Indie Developer!!**
 
-Ello!! I'm Moon/Zack/Sunny/Mohamed. I'm a solo programmer currently working on Base game FNF, I specialize in a few languages and frameworks and mobile porting + general development 👀.
-I'm still on my first amateur ambitious steps as a programmer, I have a tiny bit of experience unfortunately!
+Ello!! I'm Moon/Zack/Mohamed. I'm a solo programmer currently working on Base game FNF, I specialize in a few languages and frameworks and mobile porting + general development 👀. I'm a tad versed now on team management and programming knowledge!
 
 
    <p align="left">
